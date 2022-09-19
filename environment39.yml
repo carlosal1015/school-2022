@@ -1,0 +1,9 @@
+name: torch39
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pytorch
+  - matplotlib
+  - scipy
