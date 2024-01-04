@@ -12,7 +12,7 @@ function verification() {
 
 function active_environment() {
   local major_version=3
-  local minor_version=10
+  local minor_version=12
   echo "Activation environment start"
   echo "By default we using python ${major_version}.${minor_version}"
   # conda init zsh
